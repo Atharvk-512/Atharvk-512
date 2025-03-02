@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Atharv
 
-🎓 Recent Graduate from PICT (Pune Institute of Computer Technology) in Computer Engineering <br>
-💻 Aspiring Software Developer <br>
-🔭 Working on backend development in Java with Spring <br>
-🌱 Currently learning frontend development with React <br>
+🎓 2024 Graduate from PICT (Pune Institute of Computer Technology) in Computer Engineering <br>
+💻 Software Developer <br>
+🔭 Currently getting proficient in C# and .NET framework <br>
+🎯 Next target - frontend development with React <br>
 💻 Linux enthusiast (Arch installation is still pending btw 😅😂) <br>
 🤞 Hope I'll be able to make some good contributions and give back to the community <br>
 ⚡ I love watching sitcoms... Ted Lasso, Psych, The Office and Suits are some of my all time favourites
@@ -13,6 +13,7 @@
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
@@ -25,6 +26,7 @@
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
 
@@ -53,3 +55,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 🎯 Next target - backend development in Java with Spring <br> -->
